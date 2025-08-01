@@ -11,7 +11,7 @@ This project implements a **Movie Recommender System** using similarity-based re
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/MovieRecommenderSystem.git
+   git clone https://github.com/Paganini134/MovieRecommenderSystem.git
    cd MovieRecommenderSystem
    ```
 2. Install required dependencies:
@@ -22,7 +22,7 @@ This project implements a **Movie Recommender System** using similarity-based re
 ## Usage
 Run the Jupyter Notebook to generate recommendations:
 ```bash
-jupyter notebook MovieRecommenderSystem.ipynb
+Jupyter Notebook MovieRecommenderSystem.ipynb
 ```
 
 ## Dataset
